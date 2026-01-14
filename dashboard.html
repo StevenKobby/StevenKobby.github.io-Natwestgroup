@@ -341,7 +341,7 @@
         if (btn) btn.addEventListener('click', () => {
           try { if (window.BankDemo && typeof window.BankDemo.clearToken === 'function') window.BankDemo.clearToken(); } catch {}
           try { localStorage.removeItem('edu_auth'); document.cookie = 'edu_auth=; Max-Age=0; Path=/; SameSite=Lax'; } catch {}
-          window.location.href = 'login.html';
+          window.location.href = 'index.html';
         });
       }
 
