@@ -1,0 +1,31 @@
+{
+  "title": "Bank Enterprise — Overview",
+  "intro": "This site summarizes key sections: who we are, sustainability, investors, news, and careers.",
+  "sections": [
+    {
+      "heading": "Who we are",
+      "text": "We serve retail, commercial, and private banking customers across the UK.",
+      "imageUrl": "https://picsum.photos/seed/who-we-are/900/600"
+    },
+    {
+      "heading": "Sustainability",
+      "text": "We support communities and businesses with responsible finance and environmental initiatives.",
+      "imageUrl": "https://picsum.photos/seed/sustainability/900/600"
+    },
+    {
+      "heading": "Investors",
+      "text": "Key reports, performance metrics, and governance information for stakeholders.",
+      "imageUrl": "https://picsum.photos/seed/investors/900/600"
+    },
+    {
+      "heading": "News & Insights",
+      "text": "Latest updates, articles, and media resources from across the group.",
+      "imageUrl": "https://picsum.photos/seed/news-insights/900/600"
+    },
+    {
+      "heading": "Careers",
+      "text": "Explore roles and pathways to build your career with us.",
+      "imageUrl": "https://picsum.photos/seed/careers/900/600"
+    }
+  ]
+}
